@@ -1,6 +1,6 @@
-# Análise de Dados de E-commerce Brasileiro
+# Análise de dados de E-commerce
 
-## Descrição do Projeto
+## Descrição do projeto
 
 Este projeto tem como objetivo analisar dados de um e-commerce brasileiro para entender o comportamento dos clientes, identificar padrões de compra e gerar insights estratégicos para o negócio. O dataset utilizado é o "Brazilian E-Commerce Public Dataset by Olist", disponível no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
@@ -17,7 +17,7 @@ O projeto foi desenvolvido utilizando a linguagem Python e bibliotecas como Pand
 3. **Análise exploratória:** Exploração dos dados através de gráficos e tabelas para identificar padrões e tendências.
 4. **Insights e recomendações:** Extração de insights relevantes e formulação de recomendações estratégicas para o negócio.
 
-## Principais Insights
+## Principais insights
 
 * **Crescimento e sazonalidade:** O número de pedidos apresentou crescimento ao longo do tempo, com pico de vendas na Black Friday. Há um padrão de compras por dia do mês e dia da semana, com maior volume de pedidos no início da semana e queda no final do mês.
 * **Distribuição geográfica:** Os estados do Sul e Sudeste concentram a maior parte dos pedidos e faturamento, com São Paulo, Rio de Janeiro e Minas Gerais liderando em número de pedidos e receita.
@@ -33,7 +33,7 @@ O projeto foi desenvolvido utilizando a linguagem Python e bibliotecas como Pand
 * **Ofertas:** Criar promoções em datas estratégicas para incentivar compras no fim do mês e fim de semana.
 * **Expansão do Projeto:** Criar um dashboard interativo para monitoramento contínuo dos dados.
 
-## Ferramentas Utilizadas
+## Ferramentas utilizadas
 
 * Python
 * Pandas
@@ -52,9 +52,9 @@ jeangelis@gmail.com
 [LinkedIn](www.linkedin.com/in/jeangelis)
 
 
-## Observações Adicionais:
+## Observações adicionais:
 
-* Os códigos e visualizações geradas neste projeto podem ser encontrados no notebook `analise_ecommerce.ipynb`.
+* Os códigos e visualizações geradas neste projeto podem ser encontrados no notebook `Brazilian_ecommerce_EDA.ipynb`.
 * Este projeto foi desenvolvido para fins de aprendizado e demonstração de habilidades em análise de dados.
 * Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão.
 
