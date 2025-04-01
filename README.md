@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo analisar dados de um e-commerce brasileiro para entender o comportamento dos clientes, identificar padrões de compra e gerar insights estratégicos para o negócio. O dataset utilizado é o "Brazilian E-Commerce Public Dataset by Olist", disponível no Kaggle [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+Este projeto tem como objetivo analisar dados de um e-commerce brasileiro para entender o comportamento dos clientes, identificar padrões de compra e gerar insights estratégicos para o negócio. O dataset utilizado é o "Brazilian E-Commerce Public Dataset by Olist", disponível no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ## Objetivo
 
@@ -49,7 +49,7 @@ Jeangelis S. Santos
 
 jeangelis@gmail.com
 
-[www.linkedin.com/in/jeangelis]
+[LinkedIn](www.linkedin.com/in/jeangelis)
 
 
 ## Observações Adicionais:
