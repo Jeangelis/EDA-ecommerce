@@ -49,7 +49,7 @@ Jeangelis S. Santos
 
 jeangelis@gmail.com
 
-[LinkedIn](www.linkedin.com/in/jeangelis)
+[LinkedIn](https://www.linkedin.com/in/jeangelis)
 
 
 ## Observações adicionais:
